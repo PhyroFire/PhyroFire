@@ -83,12 +83,12 @@ En esta app contamos con loggeo por google o cuenta local, localizacion por GPS 
 - Deploy: Vercel, Mongo.
 
 <p>
-  <img width=96.5% src='./Images/Resto.png'  alt="landing" />
-  <img width=48% src='./Images/Resto2.png'  alt="landing2" />
-  <img width=48% src='./Images/Resto3.png'  alt="home" />
-  <img width=48% src='./Images/Resto4.png'  alt="Products Details" />
-  <img width=48% src='./Images/Resto5.png'  alt="cart" />
-  <img width=48% src='./Images/Resto6.png'  alt="profile" />
+  <img width=96.5% src='./Images/Resto.png' alt="landing" />
+  <img width=48% src='./Images/Resto2.png' alt="landing2" />
+  <img width=48% src='./Images/Resto3.png' alt="home" />
+  <img width=48% src='./Images/Resto4.png' alt="Products Details" />
+  <img width=48% src='./Images/Resto5.png' alt="cart" />
+  <img width=48% src='./Images/Resto6.png' alt="profile" />
 </p>
 
 ## 🍔 Food's PI:
