@@ -5,6 +5,7 @@
 ## ⚙️ Lenguajes y herramientas:
 
 <p align="left"> 
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
@@ -37,8 +38,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> 
 </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg" alt="insomnia" width="40" height="40"/> 
@@ -46,9 +46,10 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-</a> 
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+<img src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" alt="tailwind" width="40" height="40">
+</a>
+
 </p>
 
 <br/>
@@ -75,5 +76,5 @@
 ## Connect with me:
 
 <p>
-  <a href="https://www.linkedin.com/in/matias-jesus-contreras-b78111217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemorles" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sergio-leonel-romero-sanchez-rajoy-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn_logo" height="30" width="40" /></a>
 </p>
