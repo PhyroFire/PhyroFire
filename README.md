@@ -64,7 +64,51 @@
 
 ## 🚀 Proyectos Principales:
 
+## 🥩 Henry's Resto Project:
 
+<a href="https://restohenry.vercel.app/pedidos" target="_BLANK">
+Henry's Resto Project
+</a>
+es un E-Comerce orientado a los pequeños y medianos restaurantes que quieren adentrarse a la venta online de una manera rapida y sencilla. 
+En nuestra app, hay 3 roles principales los cuales se dividen en Usuario(Logged/not logged)/Admin/Repartidor. Cada rol cuenta con sus respectivos paneles, en los cuales pueden 
+administrar su perfil a gusto.
+En esta app contamos con loggeo por google o cuenta local, localizacion por GPS con motor de google MAP's API, Chat-BOT, Chat por Whatsapp, Modo Oscuro/Claro, datos persistentes en local storage, pagos a travez de Stripe, etc.
+
+<br/>
+<br/>
+
+- Frontend: TypeScript, React, HTML, CSS, Tailwind.
+- Backend: Node JS, Express, Sequelize, Firebase, Postgres, Axios.
+- DataBase: MongoDB.
+- Deploy: Vercel, Mongo.
+
+<p>
+  <img width=96.5% src='./Images/Resto.png'  alt="landing" />
+  <img width=48% src='./Images/Resto2.png'  alt="landing2" />
+  <img width=48% src='./Images/Resto3.png'  alt="home" />
+  <img width=48% src='./Images/Resto4.png'  alt="Products Details" />
+  <img width=48% src='./Images/Resto5.png'  alt="cart" />
+  <img width=48% src='./Images/Resto6.png'  alt="profile" />
+</p>
+
+## 🍔 Food's PI:
+
+<a href="https://pi-foods-kohl.vercel.app/" target="_BLANK">
+Food's Henry's PI
+</a>
+es un proyecto individual sobre recetas para el bootcamp Henry. En ella podras encontrar todo tipo de dietas, comidas, ademas de poder crear tu propia receta.
+La misma cuenta con filtrados anidados, barra de busqueda, ruta de detalles, formulario de creacion, etc.
+<br/>
+<br/>
+- Frontend: JavaScript, React TS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
+- Backend: JavaScript, Node JS, Express, Sequelize.
+- DataBase: SQL.
+- Deploy: Vercel, Heroku.
+<p>
+
+<p>
+  <img width=96.5% src='./Images/Foods.png'  alt="home" />
+</p>
 
 ## 📊 My Github Stats
 
