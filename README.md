@@ -84,11 +84,11 @@ En esta app contamos con loggeo por google o cuenta local, localizacion por GPS 
 
 <p>
   <img width=100% src='./Images/Resto.PNG' alt="landing" />
-  <img width=48% src='./Images/Resto2.PNG' alt="landing2" />
-  <img width=48% src='./Images/Resto3.PNG' alt="home" />
-  <img width=48% src='./Images/Resto4.PNG' alt="Products Details" />
-  <img width=48% src='./Images/Resto5.PNG' alt="cart" />
-  <img width=48% src='./Images/Resto6.PNG' alt="profile" />
+  <img width=50% src='./Images/Resto2.PNG' alt="landing2" />
+  <img width=50% src='./Images/Resto3.PNG' alt="home" />
+  <img width=50% src='./Images/Resto4.PNG' alt="Products Details" />
+  <img width=50% src='./Images/Resto5.PNG' alt="cart" />
+  <img width=50% src='./Images/Resto6.PNG' alt="profile" />
 </p>
 
 ## 🍔 Food's PI:
@@ -107,7 +107,7 @@ La misma cuenta con filtrados anidados, barra de busqueda, ruta de detalles, for
 <p>
 
 <p>
-  <img width=96.5% src='./Images/Foods.png'  alt="home" />
+  <img width=100% src='./Images/Foods.PNG' alt="home" />
 </p>
 
 ## 📊 My Github Stats
